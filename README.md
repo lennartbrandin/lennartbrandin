@@ -1,7 +1,7 @@
 <p align="center"> <img src=images/github-header-image.png /> </p>
 
 * Currently student at [TBZ](https://tbz-mitte.de), graduation presumably in 2023.
-* Planned studying for a Data Science degree at [TUHH](https://tuhh.de).
+* Planning to study Computer Science(B.Sc) or IT-Ingenieurswesen(B.Sc) at [TUHH](https://tuhh.de).
 
 Hobby programmer learning:
 
